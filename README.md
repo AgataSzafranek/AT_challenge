@@ -24,7 +24,7 @@ TASK 2️⃣  SELECTORS✔️
 ▶️ Login field xpath
 
 1. //*[@id="login"]
-2. //*[text()="Login"]
+2. //*[contains(@name, "login")]
 3. //*[@name="login"]
 
 ▶️ Password field xpath
@@ -47,7 +47,7 @@ TASK 2️⃣  SELECTORS✔️
 
 ▶️ Sign in xpath
 
-1. //*[@id="__next"]/form/div/div[2]/div/div
+1. //*[@id="__next"]/form/div/div[2]/button/span[1]
 2. //*[text()="Sign in"]
 3. //*[contains(@class,"MuiButton-l")]
 
