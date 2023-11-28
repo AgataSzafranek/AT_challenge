@@ -51,4 +51,13 @@ TASK 2️⃣  SELECTORS✔️
 2. //*[text()="Sign in"]
 3. //*[contains(@class,"MuiButton-l")]
 
-TASK 3️⃣ 
+TASK 3️⃣ Pierwszy test automatyczny i asserty
+
+TASK 4️⃣ Refactor, debugger i przypadki testowe
+
+TEST CASES - https://docs.google.com/spreadsheets/d/18uzr6ucxtG9a9PCscwYYOm3jA0a8fOsPLn5ujn20vEk/edit#gid=0
+RECORDINGS - https://drive.google.com/drive/folders/1_AB0M3vQ_nntUQGqkA2PsLc6BX76-Kn0?usp=share_link
+
+TASK 5️⃣
+
+TASK 6️⃣
