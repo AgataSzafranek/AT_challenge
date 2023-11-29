@@ -1,5 +1,6 @@
 from pages.base_page import BasePage
 
+# TASK 2 SUBTASK 5 Dodanie nowego pliku - add a match form
 class AddAMatchForm(BasePage):
     main_page_xpath = "//*[text()='Main page']"
     players_xpath = "//*[text()='Players']"

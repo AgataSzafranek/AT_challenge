@@ -1,9 +1,11 @@
 import time
 
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from pages.base_page import BasePage
 
 class Dashboard(BasePage):
+    pass
     main_page_xpath = "//*[text()='Main page']"
     players_xpath = "//*[text()='Players']"
     polski_xpath = "//*[text()='Polski']"
@@ -15,7 +17,6 @@ class Dashboard(BasePage):
     last_created_match_xpath = "//*/div/a[3]/button/span[1]"
     last_updated_match_xpath = "//*/div/a[4]/button/span[1]"
     last_updated_report_xpath = "//*/div/a[5]/button/span[1]"
-
     expected_title = "Scouts panel"
     dashboard_url = "https://scouts-test.futbolkolektyw.pl/en"
 
