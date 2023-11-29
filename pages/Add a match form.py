@@ -6,7 +6,6 @@ class AddAMatchForm(BasePage):
     matches_xpath = "//*[text()='Matches']"
     reports_xpath = "//*[text()='Reports']"
     polski_xpath = "//*[text()='Polski']"
-    sign_out_xpath = "//*[text()='Sign out']"
     my_team_xpath = "//*[@name='myTeam']"
     enemy_team_xpath = "//*[@name='enemyTeam']"
     my_team_score_xpath = "//*[@name='myTeamScore']"
@@ -23,3 +22,4 @@ class AddAMatchForm(BasePage):
     rating_xpath = "//*[@name='rating']"
     submit_xpath = "//*[@type='submit']"
     clear_xpath = "//*[text()='Clear']"
+    pass
