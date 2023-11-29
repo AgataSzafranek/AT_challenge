@@ -2,7 +2,7 @@ import time
 
 from pages.base_page import BasePage
 
-
+#TASK 2 SUBTASK 3 Dodawanie selektorow do projektu
 class LoginPage(BasePage):
     login_field_xpath = "//*[@id='login']"
     password_field_xpath = "//*[@id='password']"
@@ -14,6 +14,8 @@ class LoginPage(BasePage):
     language_dropdown_button_xpath = "//*[@aria-haspopup='listbox']"
     polish_option_xpath = "//*[@data-value='pl']"
     english_option_xpath = "//*[@data-value='en']"
+
+#TASK 3 Subtask 1
 
     def type_in_email(self, email):
         self.field_send_keys(self.login_field_xpath, email)
