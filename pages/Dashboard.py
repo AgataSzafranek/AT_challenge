@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from pages.base_page import BasePage
 
+#TASK 2 Subtask 4 - dodawanie nowego pliku dashboard
 class Dashboard(BasePage):
     pass
     main_page_xpath = "//*[text()='Main page']"
