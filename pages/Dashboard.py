@@ -1,23 +1,22 @@
 import time
 
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from pages.base_page import BasePage
 
-#TASK 2 Subtask 4 - dodawanie nowego pliku dashboard
+#TASK 2 Subtask 4
 class Dashboard(BasePage):
-    pass
     main_page_xpath = "//*[text()='Main page']"
     players_xpath = "//*[text()='Players']"
     polski_xpath = "//*[text()='Polski']"
     sign_out_xpath = "//*[text()='Sign out']"
     dev_team_contact_xpath = "//*[text()='Dev team contact']"
     add_player_xpath = "//*[text()='Add player']"
-    last_created_player_xpath = "//*/div/a[1]/button/span[1]"
-    last_updated_player_xpath = "//*/div/a[2]/button/span[1]"
-    last_created_match_xpath = "//*/div/a[3]/button/span[1]"
-    last_updated_match_xpath = "//*/div/a[4]/button/span[1]"
-    last_updated_report_xpath = "//*/div/a[5]/button/span[1]"
+    last_created_player_xpath = "//div/div/h6[1]"
+    last_updated_player_xpath = "//h6[2]"
+    last_created_match_xpath = "//h6[3]"
+    last_updated_match_xpath = "//h6[4]"
+    last_updated_report_xpath = "a[5]/button/span[1]"
+
     expected_title = "Scouts panel"
     dashboard_url = "https://scouts-test.futbolkolektyw.pl/en"
 
