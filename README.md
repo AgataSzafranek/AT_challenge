@@ -1,7 +1,7 @@
-# <ins>TASK 1️⃣  SOFTWARE CONFIGURATION✔️<ins>
+### <ins>TASK 1️⃣  SOFTWARE CONFIGURATION✔️<ins>
 
 
- 🔹 *Subtask 1 Why did you choose to participate in this challenge?*
+ 🔹 *Subtask 1 Why did you choose to participate in this challenge?* [About me](https://github.com/AgataSzafranek/AgataSzafranek)
 
 I have recently embarked on a personal journey to pursue a career as a software tester, a goal that has been in my mind for quite some time. Throughout my professional experience, I have utilized various platforms to assess the suitability of a career as a software tester, and these experiences have only reinforced my belief that this is the right path for me. I have acquired a diverse set of skills that are highly applicable to the role. Notably, I have acquired keen attention to detail, particularly in the exploration of new software and understanding its functionality. Additionally, I have actively participated in the Dare IT Manual Tester challenge and have found immense enjoyment in tackling each challenge presented to me.
 
@@ -9,7 +9,7 @@ I have recently embarked on a personal journey to pursue a career as a software 
 
 ![Image 16-11-2023 at 10 36](https://github.com/AgataSzafranek/AT_challenge/assets/142822653/95067e3c-d341-4c1c-86d0-afeb85728058)
 
-# <ins>TASK 2️⃣  SELECTORS✔️ <ins>
+### <ins>TASK 2️⃣  SELECTORS✔️ <ins>
 
  🔹 *Subtask 2 Wyszukiwanie selektorów na stronie logowania. Wymień wszystkie elementy, które znajdują się na stronie logowania.*
 
@@ -51,16 +51,16 @@ I have recently embarked on a personal journey to pursue a career as a software 
 2. //*[text()="Sign in"]
 3. //*[contains(@class,"MuiButton-l")]
 
-# <ins>TASK 3️⃣✔️< Pierwszy test automatyczny i asserty<ins>
+### <ins>TASK 3️⃣✔️< Pierwszy test automatyczny i asserty<ins>
 
-# <ins>TASK 4️⃣✔️< Refactor, debugger i przypadki testowe<ins>
+### <ins>TASK 4️⃣✔️< Refactor, debugger i przypadki testowe<ins>
 
  👉 [TEST CASES](https://docs.google.com/spreadsheets/d/18uzr6ucxtG9a9PCscwYYOm3jA0a8fOsPLn5ujn20vEk/edit#gid=0)
 
  👉 [RECORDINGS](https://drive.google.com/drive/folders/1_AB0M3vQ_nntUQGqkA2PsLc6BX76-Kn0?usp=share_link)
 
-# <ins>TASK 5️⃣✔️<<ins>
+### <ins>TASK 5️⃣✔️<<ins>
 
  👉 [ROBOT FRAMEWORK](https://github.com/AgataSzafranek/panelscoutrobotframework/tree/master)
 
-# <ins>TASK 6️⃣✔️<<ins>
+### <ins>TASK 6️⃣✔️<<ins>
