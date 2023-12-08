@@ -51,16 +51,16 @@ I have recently embarked on a personal journey to pursue a career as a software 
 2. //*[text()="Sign in"]
 3. //*[contains(@class,"MuiButton-l")]
 
-### <ins>TASK 3️⃣✔️< Pierwszy test automatyczny i asserty<ins>
+### <ins>TASK 3️⃣✔️ Pierwszy test automatyczny i asserty<ins>
 
-### <ins>TASK 4️⃣✔️< Refactor, debugger i przypadki testowe<ins>
+### <ins>TASK 4️⃣✔️ Refactor, debugger i przypadki testowe<ins>
 
  👉 [TEST CASES](https://docs.google.com/spreadsheets/d/18uzr6ucxtG9a9PCscwYYOm3jA0a8fOsPLn5ujn20vEk/edit#gid=0)
 
  👉 [RECORDINGS](https://drive.google.com/drive/folders/1_AB0M3vQ_nntUQGqkA2PsLc6BX76-Kn0?usp=share_link)
 
-### <ins>TASK 5️⃣✔️<<ins>
+### <ins>TASK 5️⃣✔️<ins>
 
  👉 [ROBOT FRAMEWORK](https://github.com/AgataSzafranek/panelscoutrobotframework/tree/master)
 
-### <ins>TASK 6️⃣✔️<<ins>
+### <ins>TASK 6️⃣✔️<ins>
