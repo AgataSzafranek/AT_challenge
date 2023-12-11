@@ -7,6 +7,7 @@ from pages.login_page import LoginPage
 from pages.Dashboard import Dashboard
 class TestChangeLanguage(unittest.TestCase):
 
+
     @classmethod
     def setUp(self):
         os.chmod(DRIVER_PATH, 755)

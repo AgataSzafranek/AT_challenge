@@ -3,6 +3,7 @@ import time
 from pages.base_page import BasePage
 
 
+
 class AddaPlayer(BasePage):
     add_player = "//*[@id='__next']/div[1]/main/div[2]/form/div[1]/div/span"
     expected_text_xpath = "//*[text()='Add player']"

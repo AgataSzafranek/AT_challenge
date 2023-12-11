@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from utils.settings import DEFAULT_LOCATOR_TYPE, EXPLICITLY_WAIT
 
+
 class BasePage():
 
     def __init__(self, driver: WebDriver):
