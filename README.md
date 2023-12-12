@@ -64,3 +64,9 @@ I have recently embarked on a personal journey to pursue a career as a software 
  👉 [ROBOT FRAMEWORK](https://github.com/AgataSzafranek/panelscoutrobotframework/tree/master)
 
 ### <ins>TASK 6️⃣✔️<ins>
+
+[Robot Framework Report](file:///C:/Users/owner/PycharmProjects/pythonProject/log.html)
+
+[Bugs]()
+
+[Report]()
