@@ -65,8 +65,9 @@ I have recently embarked on a personal journey to pursue a career as a software 
 
 ### <ins>TASK 6️⃣✔️<ins>
 
-[Robot Framework Report](file:///C:/Users/owner/PycharmProjects/pythonProject/log.html)
+👉[Bugs](https://docs.google.com/spreadsheets/d/1sz7JmWH-VEjkENVepYIG_Id-twTffMGfgeLShI9YmYo/edit#gid=0)
 
-[Bugs]()
+👉[Report](https://docs.google.com/spreadsheets/d/1-NKHeQ1XQVNPYLpqmWpKUwlHJ28KjiDBAAzDv9L87nA/edit#gid=0)
 
-[Report]()
+Robot Framework Report
+
