@@ -3,7 +3,7 @@
 
  🔹 *Subtask 1 Why did you choose to participate in this challenge?* [About me](https://github.com/AgataSzafranek/AgataSzafranek)
 
-I have recently embarked on a personal journey to pursue a career as a software tester, a goal that has been in my mind for quite some time. Throughout my professional experience, I have utilized various platforms to assess the suitability of a career as a software tester, and these experiences have only reinforced my belief that this is the right path for me. I have acquired a diverse set of skills that are highly applicable to the role. Notably, I have acquired keen attention to detail, particularly in the exploration of new software and understanding its functionality. Additionally, I have actively participated in the Dare IT Manual Tester challenge and have found immense enjoyment in tackling each challenge presented to me.
+I have recently embarked on a personal journey to pursue a career as a software tester, a goal that has been in my mind for quite some time. Throughout my professional experience, I have utilized various platforms to assess the suitability of a career as a software tester, and these experiences have only reinforced my belief that this is the right path for me. I have acquired a diverse set of skills that are highly applicable to the role. Additionally, I have actively participated in the Dare IT Manual Tester challenge and have found immense enjoyment in tackling each challenge presented to me.
 
  🔹 *Subtask 4 Quick ISTQB knowledge test [ISTQB](https://getistqb.com/quiz-purpurowy/)* 💪 
 
@@ -69,5 +69,5 @@ I have recently embarked on a personal journey to pursue a career as a software 
 
 👉[Report](https://docs.google.com/spreadsheets/d/1-NKHeQ1XQVNPYLpqmWpKUwlHJ28KjiDBAAzDv9L87nA/edit#gid=0)
 
-Robot Framework Report
+
 
